@@ -33,8 +33,8 @@ PIL
 1. Clone this repository:
 
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/BYFCJX/image-caption.git
+    cd image-caption
     ```
 
 2. Install the required packages:
